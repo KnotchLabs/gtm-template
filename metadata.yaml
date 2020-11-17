@@ -1,5 +1,5 @@
 homepage: "https://knotch.com"
 documentation: "https://docs.knotch.it"
 versions:
-  - sha: 492278187d495a36989dfd0a49428480e96bb748
+  - sha: ebcf63a7f2cf22b107af5eedae911257dc78ae74
     changeNotes: Initial release.
